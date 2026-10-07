@@ -1,0 +1,5 @@
+# Luôn lưu file text với line ending LF để Windows (máy bạn) và Linux (runner CI) giống nhau.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jar binary
