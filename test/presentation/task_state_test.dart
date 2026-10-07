@@ -13,6 +13,6 @@ void main() {
       ],
     );
 
-    expect(state.summary, '2/2 đã xong');
+    expect(state.summary, '1/2 đã xong');
   });
 }
